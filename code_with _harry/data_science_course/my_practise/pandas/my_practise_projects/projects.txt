@@ -1,0 +1,122 @@
+🚀 Mini Project 1: Weather Data Analysis
+Goal: Use Pandas to analyze weather data of your city.
+
+Tasks:
+✅ Load CSV data (temperature, humidity, rainfall).
+✅ Calculate monthly averages of temperature and humidity.
+✅ Find the day with maximum rainfall.
+✅ Plot temperature trends using matplotlib.
+✅ Handle missing data if present.
+
+🚀 Mini Project 2: Movie Ratings Analysis
+Goal: Analyze a dataset of movies and their ratings.
+
+Tasks:
+✅ Load a dataset (title, genre, rating, year).
+✅ Find the top 10 highest-rated movies.
+✅ Find average ratings by genre.
+✅ Filter movies released after 2015 with ratings above 8.0.
+✅ Plot ratings distribution.
+
+🚀 Mini Project 3: NumPy Matrix Operations
+Goal: Practice numerical computation using NumPy.
+
+Tasks:
+✅ Generate two random matrices of size 3x3 and compute their:
+
+Element-wise addition
+
+Element-wise multiplication
+
+Dot product
+
+✅ Compute the eigenvalues and eigenvectors.
+✅ Create a function to normalize the matrix rows.
+
+🚀 Mini Project 4: Sales Data Dashboard
+Goal: Build a lightweight dashboard in Jupyter using Pandas + Matplotlib.
+
+Tasks:
+✅ Load a CSV of sales data (Date, Product, Price, Quantity).
+✅ Calculate total revenue by product.
+✅ Find which product sold the most in quantity and revenue.
+✅ Plot daily sales trends.
+✅ Identify days with zero sales.
+
+🚀 Mini Project 5: Personal Expense Tracker
+Goal: Use Pandas to analyze your own expenses.
+
+Tasks:
+✅ Record your expenses in a CSV (Date, Category, Amount).
+✅ Calculate monthly and category-wise totals.
+✅ Identify top 3 categories where you spend the most.
+✅ Plot a pie chart of your spending by category.
+✅ Check for any duplicate entries and remove them.
+
+🚀 Mini Project 6: Implement Linear Regression with NumPy
+Goal: Understand how machine learning models use NumPy under the hood.
+
+Tasks:
+✅ Generate synthetic data using np.random (X: independent variable, y: dependent variable with noise).
+✅ Implement linear regression using the formula:
+
+𝜃
+=
+(
+𝑋
+𝑇
+𝑋
+)
+−
+1
+𝑋
+𝑇
+𝑦
+θ=(X 
+T
+ X) 
+−1
+ X 
+T
+ y
+✅ Predict on new X values.
+✅ Plot the regression line along with your data points using matplotlib.
+
+🚀 Mini Project 7: Titanic Data Survival Analysis
+Goal: Practice data cleaning, filtering, and groupby with a real dataset.
+
+Tasks:
+✅ Load Titanic dataset (https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv).
+✅ Clean missing values in Age, Cabin, and Embarked.
+✅ Calculate survival rates overall and by:
+
+Gender
+
+Passenger Class
+
+✅ Plot survival rates by gender using a bar plot.
+✅ Create a new column "FamilySize" = SibSp + Parch + 1.
+
+🚀 Mini Project 8: Student Marks Analysis
+Goal: Learn data manipulation with Pandas and NumPy.
+
+Tasks:
+✅ Create a DataFrame with random marks of 50 students across 5 subjects.
+✅ Calculate:
+
+Each student’s total and average marks
+
+Subject-wise average marks
+
+Top 5 performers
+
+✅ Plot a histogram of average marks.
+✅ Identify students scoring below 40 in any subject.
+
+How to execute:
+✅ Pick one project at a time (1–2 days each).
+✅ Document your findings in a Jupyter Notebook with markdown explanations.
+✅ Use matplotlib or seaborn for at least one visualization per project.
+✅ Share the notebook with me if you want feedback.
+
+📌 If you wish:

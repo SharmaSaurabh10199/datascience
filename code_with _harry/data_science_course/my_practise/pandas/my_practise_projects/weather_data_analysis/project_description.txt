@@ -1,0 +1,9 @@
+project description: 
+🚀 Mini Project 1: Weather Data Analysis
+Goal: Use Pandas to analyze weather data of your city.
+
+Tasks:
+✅ Load CSV data (temperature, humidity, rainfall).
+✅ Calculate monthly averages of temperature and humidity.
+✅ Find the day with maximum rainfall.
+✅ Plot temperature trends using matplotlib.
